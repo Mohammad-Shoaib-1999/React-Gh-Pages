@@ -6,6 +6,6 @@ export default defineConfig({
   base: "/React-Gh-Pages",
   plugins: [react()],
   build: {
-    outDir: 'dist',
+    outDir: 'build',
   },
 });
